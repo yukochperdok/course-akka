@@ -123,3 +123,4 @@ project/boot/
 project/plugins/project/
 .cache
 .lib/
+lightbend.sbt
