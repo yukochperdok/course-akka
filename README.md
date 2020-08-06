@@ -51,3 +51,19 @@ Using Akka Cluster properly can be challenging. An improperly configured cluster
     Healing a Cluster
     Split Brain
     Lightbend Split Brain Resolver
+
+## LAC-Sharding-v1
+Akka Cluster Sharding allows us to build systems that can be responsive to our users needs. These systems are both elastic and resilient in part due to the message driven nature of the actors they are built on. In short, they are Reactive.
+
+    https://academy.lightbend.com/courses/course-v1:lightbend+LAC-Sharding-Scala-Classic+v1/about
+
+   ### Course Syllabus
+    Stateless Systems
+    Akka Cluster Sharding
+    Stateful Systems
+    Passivation
+    Rebalancing
+    Remembering Entities
+    Minimum Number of Members 
+
+
